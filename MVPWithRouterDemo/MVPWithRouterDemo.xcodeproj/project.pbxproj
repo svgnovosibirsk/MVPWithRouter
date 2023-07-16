@@ -88,7 +88,6 @@
 			children = (
 				7C2A0B9A2A63ED6100CD9134 /* Model */,
 				7C2A0B9B2A63ED6B00CD9134 /* View */,
-				7C2A0B982A63ED5400CD9134 /* FirstPresenter.swift */,
 				7C2A0B9C2A63ED7500CD9134 /* Presenter */,
 				7C2A0B9D2A63ED8100CD9134 /* Assembley */,
 			);
@@ -140,6 +139,7 @@
 		7C2A0B9C2A63ED7500CD9134 /* Presenter */ = {
 			isa = PBXGroup;
 			children = (
+				7C2A0B982A63ED5400CD9134 /* FirstPresenter.swift */,
 			);
 			path = Presenter;
 			sourceTree = "<group>";

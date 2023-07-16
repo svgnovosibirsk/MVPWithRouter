@@ -8,5 +8,7 @@
 import UIKit
 
 final class SecondScreenAssembley {
-        
+    static func build() -> UIViewController {
+        SecondViewController()
+    }
 }
